@@ -1,12 +1,2 @@
-title: 'page'
-url: 'https://dmtmov.me'
-remote_theme: b2a3e8/jekyll-theme-console
-
-header_pages:
-  - readme.md
-
-style: dark
-listen_for_clients_preferred_style: true
-
-footer: ''
-
+title: Page
+url: https://dmtmov.me
