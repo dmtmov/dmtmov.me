@@ -7,5 +7,3 @@ style: hacker
 listen_for_clients_preferred_style: true
 
 footer: ''
-
-theme: jekyll-theme-cayman
